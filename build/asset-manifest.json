@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/api-pixabay/static/css/main.073c9b0a.css",
+    "main.js": "/api-pixabay/static/js/main.2e3f971f.js",
+    "static/js/787.df883a97.chunk.js": "/api-pixabay/static/js/787.df883a97.chunk.js",
+    "index.html": "/api-pixabay/index.html",
+    "main.073c9b0a.css.map": "/api-pixabay/static/css/main.073c9b0a.css.map",
+    "main.2e3f971f.js.map": "/api-pixabay/static/js/main.2e3f971f.js.map",
+    "787.df883a97.chunk.js.map": "/api-pixabay/static/js/787.df883a97.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2e3f971f.js"
+  ]
+}
