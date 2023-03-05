@@ -1,2 +1,2 @@
-# api-pixabay
-Consumo de API Pixabay - Buscador de Imágenes
+# reactpixabay
+Consumo de API Pixabay - Buscador de imágenes 
