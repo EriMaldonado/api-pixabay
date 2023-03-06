@@ -1,7 +1,7 @@
 # api-pixabay
 Consumo de API Pixabay - Buscador de Imágenes
 Enlace al sitio: (https://erimaldonado.github.io/api-pixabay/)
-![Imagen del proyecto](https://github.com/EriMaldonado/api-pixabay/new/main/src/api-pixabay.png?raw=true)
+![Imagen del proyecto](https://github.com/EriMaldonado/api-pixabay/blob/main/src/api-pixabay.png?raw=true)
 
 ## Descripción
 Consumo de API de pixabay para buscar imágenes.
