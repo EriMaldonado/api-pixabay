@@ -2,7 +2,7 @@
 Aplicación web para buscar imágenes, consumo api Pixabay
 
 Enlace al sitio: (https://erimaldonado.github.io/api-pixabay)
-![Imagen del proyecto](https://github.com/EriMaldonado/api-pixabay/blob/gh-pages/api-pixabay.png?raw=true)
+![Imagen del proyecto](https://github.com/EriMaldonado/api-pixabay/blob/main/api-pixabay.png?raw=true)
 
 ## Tecnologías 🛠
 [![REACT](https://img.shields.io/badge/REACT-1572B6?style=for-the-badge&logo=react&logoColor=white)](https://en.wikipedia.org/wiki/React_(software))
